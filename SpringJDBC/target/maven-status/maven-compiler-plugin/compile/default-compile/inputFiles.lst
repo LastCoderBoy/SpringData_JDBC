@@ -1,0 +1,8 @@
+/Users/jkhamroev/Programming_Languages/for_Java/SpringBoot/databasePostgreSQL/src/main/java/com/JK/databasePostgreSQL/domain/Book.java
+/Users/jkhamroev/Programming_Languages/for_Java/SpringBoot/databasePostgreSQL/src/main/java/com/JK/databasePostgreSQL/dao/AuthorDao.java
+/Users/jkhamroev/Programming_Languages/for_Java/SpringBoot/databasePostgreSQL/src/main/java/com/JK/databasePostgreSQL/domain/Author.java
+/Users/jkhamroev/Programming_Languages/for_Java/SpringBoot/databasePostgreSQL/src/main/java/com/JK/databasePostgreSQL/dao/BookDao.java
+/Users/jkhamroev/Programming_Languages/for_Java/SpringBoot/databasePostgreSQL/src/main/java/com/JK/databasePostgreSQL/dao/impl/BookDaoImpl.java
+/Users/jkhamroev/Programming_Languages/for_Java/SpringBoot/databasePostgreSQL/src/main/java/com/JK/databasePostgreSQL/config/DataSourceConfig.java
+/Users/jkhamroev/Programming_Languages/for_Java/SpringBoot/databasePostgreSQL/src/main/java/com/JK/databasePostgreSQL/dao/impl/AuthorDaoImpl.java
+/Users/jkhamroev/Programming_Languages/for_Java/SpringBoot/databasePostgreSQL/src/main/java/com/JK/databasePostgreSQL/DatabasePostgreSqlApplication.java
